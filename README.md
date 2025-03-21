@@ -39,8 +39,4 @@ This project develops a deep learning model to detect driver drowsiness using im
 - Enhance performance with transfer learning (e.g., ResNet or VGG).
 - Deploy the model as a web or mobile application.
 
-### License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Contributing 🤝
-Contributions are welcome! Feel free to fork this repository, report issues, or submit pull requests to enhance the project.
+### by : Haneen Reda Zehry
